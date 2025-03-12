@@ -1,5 +1,7 @@
 # HR Data Analysis Project
 
+![Light and Dark Mode](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/light%20dashboard.png)
+
 ## Overview
 Welcome to the HR Data Analysis project repository! This project focuses on leveraging Power BI for insightful Human Resources analytics.
 
